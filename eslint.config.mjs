@@ -29,7 +29,7 @@ export default [{
             ...jest.environments.globals.globals,
         },
 
-        ecmaVersion: 5,
+        ecmaVersion: 2022,
         sourceType: "module",
     },
 
