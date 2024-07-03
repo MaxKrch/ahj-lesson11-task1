@@ -46,6 +46,7 @@
   "dependencies": {
     "@eslint/migrate-config": "^1.1.0",
     "core-js": "^3.37.1",
+    "moment": "^2.30.1",
     "rxjs": "^7.8.1"
   }
 }
