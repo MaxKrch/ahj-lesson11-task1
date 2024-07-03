@@ -1,5 +1,5 @@
 const BASE_OPTIONS = {
-  URL_SERVER: 'http://192.168.1.104:7070',
+  URL_SERVER: 'https://ahj-lesson11-task1-backend.vercel.app',
   INITIAL_STATE: {
     mails: [],
   },
